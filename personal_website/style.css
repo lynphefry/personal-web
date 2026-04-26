@@ -3,24 +3,24 @@ body {
     line-height: 1.6;
     margin: 20px;
     padding: 20px;
-    background-color: pink;
+    background-color: #72547a;
     font-size: 18px;
 }
 
 #header{
-    background-color: lightblue;
+    background-color: #ce798e;
     padding: 20px;
     text-align: center;
 }
 #profile {
-    background-color: lightblue;
+    background-color: #69609f;
     padding: 20px;
     text-align: center;
     margin: 20px 0;
 }
 .profile-description {
     font-size: 20px;
-    color: #333;
+    color: black;
 }
 
 .profile-pic {
@@ -30,26 +30,26 @@ body {
     margin-top: 20px;
 }
 #skills {
-    background-color: lightblue;
+    background-color: #ce798e;
     padding: 20px;
     text-align: center;
     margin: 20px 0;
 }
 #contact {
-    background-color: lightblue;
+    background-color: #ce798e;
     padding: 20px;
     text-align: center;
     margin: 20px 0;
 }
 #footer {
-    background-color: lightblue;
+    background-color: 69609f;
     padding: 20px;
     text-align: center;
     margin: 20px 0;
 }
 .footer-text {
     font-size: 14px;
-    color: #666;
+    color: black;
 }
 .box {
     border: 1px solid #ddd;
@@ -61,6 +61,8 @@ nav a {
     margin: 0 10px;
     text-decoration: none;
     color: #333;
+    color:yellowgreen;
+    font-weight:bold;
 }
 nav a:hover {
     text-decoration: underline;
@@ -107,7 +109,7 @@ button:hover {
     background-color: #555;
 }
 footer {
-    background-color: lightblue;
+    background-color: #69609f;
     padding: 20px;
     text-align: center;
     margin: 20px 0;
